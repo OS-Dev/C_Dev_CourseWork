@@ -1,8 +1,6 @@
 // mypager.c
 
-// Osmel Savon
-//Professor Karen Heart
-// 4/9/18
+
 
 /* mypager utility
  * Prints a file to standard output, one page worth of lines
